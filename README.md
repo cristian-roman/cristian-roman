@@ -17,8 +17,8 @@ My current interests based on technologies I liked to work with are:
 <ul style="font-size: 16px">
   <li style="font-weight: bold">Machine learning 🧠</li>
   <ul style="list-style-type: none">
-     <li style="display: inline-block"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </li>
-     <li style="display: inline-block"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></li>
+     <li style="display: inline-block"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></li>
   </ul>
   <li style="font-weight: bold">Information security 🛡️</li>
   <ul style="list-style-type: none">
@@ -42,12 +42,11 @@ My current interests based on technologies I liked to work with are:
   </ul>
   <li style="font-weight: bold">Game design 👾</li>
      <ul style="list-style-type: none">
-      <li style="display: inline-block"><a href="https://www.unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a> </li>
-      <li style="display: inline-block"> 
+      <li style="display: inline-block"><a href="https://www.unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
       <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
       </li>
 </p>
 </p>
 <p align="left" style="font-size: 18px">
-▼▼▼ Below you can find the most successful project I have worked on during my studies. ▼▼▼
+▼▼▼ Below you can find the most successful projects I have worked on during my studies. ▼▼▼
 </p>
