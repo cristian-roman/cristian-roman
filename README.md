@@ -8,7 +8,6 @@ I'm just finishing my bachelor's degree in Computer Science at
 <a href="https://www.info.uaic.ro/"> 
 UAIC Iasi, Romania
 <img alt="FII logo" width="20px" src="./images/logo-fii-300x292.png">
-.
 </a>
 </p>
 <p align="left" style="font-size: 18px">
@@ -27,7 +26,7 @@ My current interests based on technologies I liked to work with are:
      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
      </li>
   </ul>
-  <li style="font-weight: bold"> API | Backend <img alt="bits..." width="30px" src="./images/bits.gif"</li>
+  <li style="font-weight: bold"> API | Backend <img alt="bits..." width="30px" src="./images/bits.gif"></li>
   <ul style="list-style-type: none">
      <li>
      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></li>
