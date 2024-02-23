@@ -17,7 +17,6 @@ My current interests based on technologies I liked to work with are:
 <ul style="font-size: 16px">
   <li style="font-weight: bold">Machine learning 🧠</li>
   <ul style="list-style-type: none">
-     <li style="font-weight: bold; display: inline-block"> Repositories: </li>
      <li style="display: inline-block"> <a href="https://github.com/cristian-roman/RN_2023"> NN_2023, </li>
      <li style="display: inline-block"> <a href="https://github.com/cristian-roman/IA_2023_First_Homeworks"> AI_2023, </li>
      <li style="display: inline-block"> <a href="https://github.com/cristian-roman/ExplainedChessIA"> AI_NLP_ChessExplainer
@@ -32,7 +31,6 @@ My current interests based on technologies I liked to work with are:
   </ul>
   <li style="font-weight: bold"> API | Backend <img alt="bits..." width="30px" src="./images/bits.gif"></li>
   <ul style="list-style-type: none">
-     <li style="font-weight: bold; display: inline-block"> Repositories: </li>
      <li> <a href="https://github.com/cristian-roman/rc_p1"> RC_RecursiveResourceDownloader </li>
      <li>
      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -52,8 +50,6 @@ My current interests based on technologies I liked to work with are:
   </ul>
   <li style="font-weight: bold">Game design 👾</li>
      <ul style="list-style-type: none">
-      <li style="font-weight: bold; display: inline-block"> Repository:
-      </li>
       <li style="display: inline-block"> <a href="https://github.com/Starpuff/WitchingTales"> IMR_WitchingTales 
       </li>
       <li>
