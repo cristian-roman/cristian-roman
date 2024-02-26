@@ -50,7 +50,7 @@ My current interests based on technologies I liked to work with are:
   </ul>
   <li style="font-weight: bold">Game design 👾</li>
      <ul style="list-style-type: none">
-      <li style="display: inline-block"> <a href="https://github.com/Starpuff/WitchingTales"> IMR_WitchingTales 
+      <li style="display: inline-block"> <a href="https://github.com/Starpuff/IMRWitchingTales"> IMR_WitchingTales 
       </li>
       <li>
       <a href="https://www.unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
