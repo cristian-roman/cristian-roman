@@ -6,8 +6,15 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a software engineer passionate about building **modular, maintainable systems**, experimenting with **AI, cloud, and game development**.  
+I'm a **Senior Software Engineer** with 3+ years of experience building **high-performance, modular backend systems**. I specialize in **concurrency, distributed systems, and low-latency architectures**, with a focus on **efficiency, scalability, and maintainability**.  
+
+I work primarily with **Java, Python, C++, and C#**, leveraging **multithreading, network programming, and cloud-native tools** to deliver robust, high-throughput services.  
+
+I enjoy optimizing systems for **performance and reliability**, automating infrastructure with **Docker, orchestration, and CI/CD pipelines**, and mentoring junior engineers to help them grow.  
+Curious by nature, I keep up with **new technologies, programming languages, and system design patterns** to continuously improve the software I build.  
+
 Here you'll find a selection of projects I’ve worked on during my studies and professional experience.
+
 
 ---
 
