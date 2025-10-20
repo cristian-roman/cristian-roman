@@ -1,64 +1,62 @@
-<h1>Hi There👋</h1>
-<p align="left" style="font-size: 18px">
-I'm Cristian, welcome to my profile page! 😊
+<h1 align="center">Hi there 👋 I'm Cristian-Ioan Roman</h1>
+<p align="center">
+  <img src="./images/hi.gif" width="150" alt="Hi gif" />
 </p>
-<img align="right" alt="hiii!!" width="200px" src="./images/hi.gif">
-<p align="left" style="font-size: 18px">
-I'm just finishing my bachelor's degree in Computer Science at 
-<a href="https://www.info.uaic.ro/"> 
-UAIC Iasi, Romania
-<img alt="FII logo" width="20px" src="./images/logo-fii-300x292.png">
-</a>
-</p>
-<p align="left" style="font-size: 18px">
-I've worked with many technologies during these years and now I'm looking for experiences to clarify my career path. 📝
-<p style="font-size: 16px">
-My current interests based on technologies I liked to work with are:
-<ul style="font-size: 16px">
-  <li style="font-weight: bold">Machine learning 🧠</li>
-  <ul style="list-style-type: none">
-     <li style="display: inline-block"> <a href="https://github.com/cristian-roman/RN_2023"> NN_Homeworks, </li>
-     <li style="display: inline-block"> <a href="https://github.com/cristian-roman/IA_2023_First_Homeworks"> AI_Homeworks, </li>
-     <li style="display: inline-block"> <a href="https://github.com/cristian-roman/ExplainedChessIA"> AI_NLP_ChessExplainer
-     <li><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></li>
-  </ul>
-  <li style="font-weight: bold">Information security 🛡️</li>
-  <ul style="list-style-type: none">
-     <li style="display: inline-block">
-     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-     </li>
-  </ul>
-  <li style="font-weight: bold"> API | Backend <img alt="bits..." width="30px" src="./images/bits.gif"></li>
-  <ul style="list-style-type: none">
-     <li> <a href="https://github.com/cristian-roman/rc_p1"> RC_RecursiveResourceDownloader </li>
-     <li>
-     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-     </li> 
-     <li style="display: inline-block"> <a href="https://github.com/hututudor/boo"> TW_BookOrganizer </li>
-     <li> 
-     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-     </li>
-     <li> <a href="https://github.com/Starpuff/FII-SGBD"> SGBD_EventOrganizer </li>
-     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
-     </li>
-  </ul>
-  <li style="font-weight: bold">Game design 👾</li>
-     <ul style="list-style-type: none">
-      <li style="display: inline-block"> <a href="https://github.com/Starpuff/IMRWitchingTales"> IMR_WitchingTales 
-      </li>
-      <li>
-      <a href="https://www.unity.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-      </li>
-</p>
-</p>
-<p align="left" style="font-size: 18px">
-▼▼▼ Below you can find other successful projects I have worked on during my studies. ▼▼▼
+
+---
+
+### 👨‍💻 About Me
+I'm a software engineer passionate about building **modular, maintainable systems**, experimenting with **AI, cloud, and game development**.  
+Here you'll find a selection of projects I’ve worked on during my studies and professional experience.
+
+---
+
+## 🔹 AI & Machine Learning
+| Project | Tech & Highlights |
+|---------|------------------|
+| [AI Endometriosis Detection](https://github.com/cristian-roman/Licenta2024) | Python, PyTorch, Flask, React, Docker — U-Net + GCN for medical image segmentation. Achieved 92% accuracy, real-time inference (~20 FPS). |
+| [ExplainedChessIA](https://github.com/cristian-roman/ExplainedChessIA) | Python, Flask, LSTM, Stockfish — Chatbot explaining chess moves. |
+| [Flappy Bird RL Agent](https://github.com/cristian-roman/flappy-bird) | Python, PyTorch — Q-Learning & Deep Q-Learning agent automating gameplay. |
+| [NN & AI Coursework](https://github.com/cristian-roman/RN_2023) | Python, C# — Neural networks, heuristics, reinforcement learning projects. |
+
+---
+
+## ☁️ Cloud & Full-Stack
+| Project | Tech & Highlights |
+|---------|------------------|
+| [CloudComputing_2024](https://github.com/cristian-roman/CloudComputing_2024) | .NET Core, Blazor, ASP.NET Core — Modular backend + SPA frontend. |
+| [IoT Smart Greenhouse](https://github.com/hututudor/iot_smart_greenhouse) | Python, React, Cisco Packet Tracer — Simulated sensor data and real-time dashboard. |
+| [Event Management System](https://github.com/Starpuff/FII-SGBD) | Java, Spring Boot, PostgreSQL — Booking platform with triggers & REST API. |
+| [SaaS Recipe App](https://github.com/stefanvulpe-dev/cloud-computing-team-workspace) | React + TypeScript + Node.js + Prisma, GCP & Azure — Multi-cloud deployment, AI chatbot. |
+
+---
+
+## 🖥️ Systems & Backend
+| Project | Tech & Highlights |
+|---------|------------------|
+| [AwesomeWM Config](https://github.com/cristian-roman/awesomeWM) | Lua, Arch Linux — Modular window manager setup with theming & dynamic monitors. |
+| [Recursive Resource Downloader](https://github.com/cristian-roman/rc_p1) | C, TCP — Custom client-server web scraper with reliable protocol. |
+| [Deriv Engine](https://github.com/hututudor/deriv) | C++17, SDL2 — Symbolic differentiation engine with AST visualization. |
+| [Book Organizer](https://github.com/hututudor/boo) | PHP, JS — Full-stack book rating & review application. |
+
+---
+
+## 🎮 Game Development
+| Project | Tech & Highlights |
+|---------|------------------|
+| [Witching Tales](https://github.com/Starpuff/IMRWitchingTales) | Unity, C#, Blender — 3D narrative game with potion crafting & interactions. |
+| [Warrior Platformer](https://github.com/hututudor/gd2024) | Unity 2D, C# — Side-scrolling platformer with enemies & obstacles. |
+| [AR Bird App](https://github.com/cristian-roman/IMR_2023_tema_1) | Unity, AR Foundation — Mobile AR experience with real-space interactions. |
+| [Mancala Game](https://github.com/cristian-roman/MancalaGamePy-main) | Python, Tkinter — GUI board game with AI-generated visual assets. |
+
+---
+
+### 🔧 Tools & Technologies
+Python · Java · C++ · C# · Lua · JavaScript/TypeScript  
+Flask · React · Spring Boot · .NET Core · Unity · Docker · Kubernetes · PostgreSQL · MongoDB · Redis · GCP · Azure  
+
+---
+
+<p align="center">
+  <a href="https://github.com/cristian-roman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
