@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **Senior Software Engineer** with 3+ years of experience building **high-performance, modular backend systems**. I specialize in **concurrency, distributed systems, and low-latency architectures**, with a focus on **efficiency, scalability, and maintainability**.  
+I'm a **Senior Software Engineer** with 3+ years of experience building **high-performance, modular backend systems**. I focus on **efficiency, scalability, and maintainability**.  
 
 I work primarily with **Java, Python, C++, and C#**, leveraging **multithreading, network programming, and cloud-native tools** to deliver robust, high-throughput services.  
 
