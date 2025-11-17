@@ -35,6 +35,7 @@ Here you'll find a selection of projects I’ve worked on during my studies and 
 | [IoT Smart Greenhouse](https://github.com/hututudor/iot_smart_greenhouse) | Python, React, Cisco Packet Tracer — Simulated sensor data and real-time dashboard. |
 | [Event Management System](https://github.com/Starpuff/FII-SGBD) | Java, Spring Boot, PostgreSQL — Booking platform with triggers & REST API. |
 | [SaaS Recipe App](https://github.com/stefanvulpe-dev/cloud-computing-team-workspace) | React + TypeScript + Node.js + Prisma, GCP & Azure — Multi-cloud deployment, AI chatbot. |
+| [Book Organizer](https://github.com/hututudor/boo) | PHP, JS — Full-stack book rating & review application. |
 
 ---
 
@@ -44,7 +45,6 @@ Here you'll find a selection of projects I’ve worked on during my studies and 
 | [AwesomeWM Config](https://github.com/cristian-roman/awesomeWM) | Lua, Arch Linux — Modular window manager setup with theming & dynamic monitors. |
 | [Recursive Resource Downloader](https://github.com/cristian-roman/rc_p1) | C, TCP — Custom client-server web scraper with reliable protocol. |
 | [Deriv Engine](https://github.com/hututudor/deriv) | C++17, SDL2 — Symbolic differentiation engine with AST visualization. |
-| [Book Organizer](https://github.com/hututudor/boo) | PHP, JS — Full-stack book rating & review application. |
 
 ---
 
