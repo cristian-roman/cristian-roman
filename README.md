@@ -6,9 +6,9 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **Senior Software Engineer** with 3+ years of experience building **high-performance, modular backend systems**. I focus on **efficiency, scalability, and maintainability**.  
+I'm a ** Software Engineer** with 3+ years of experience building **modular backend systems**. I focus on **efficiency, scalability, and maintainability**.  
 
-I work primarily with **Java, Python, C++, and C#**, making use of **multithreading, network programming and cloud-native tools** to deliver robust, high-throughput services.  
+I work primarily with **Java, C++, Python, and C#**, making use of **multithreading, network programming, and cloud-native tools** to deliver robust, high-throughput services.  
 
 I enjoy optimizing systems for **performance and reliability**, automating infrastructure with **Docker, orchestration, and CI/CD pipelines**, and mentoring junior engineers to help them grow.  
 Curious by nature, I keep up with **new technologies, programming languages, and system design patterns** to continuously improve the software I build.  
