@@ -6,7 +6,7 @@ A results-driven Software Engineer with a focus on **scalability, observability,
 ---
 
 ### 👨‍💻 About Me
-I am a Software Engineer dedicated to the craft of building **correct and elegant systems**. I believe that the most effective solution to a complex problem is often the most straightforward one. My goal is to reduce system entropy by replacing convoluted workarounds with clean, maintainable, and highly efficient code.
+I am a Software Engineer dedicated to the craft of building **correct and elegant systems**. I believe that the most effective solution to a complex problem is often implemented in a straightforward approach. My goal is to reduce system entropy by replacing convoluted workarounds with clean, maintainable, and highly efficient code.
 
 I am driven by a deep curiosity for how hardware and software interact. While my core expertise lies in **Java and distributed backend services**, I maintain a strong theoretical foundation in **C++20** and systems programming, always striving for rigorous correctness and automated resilience in everything I build.
 
