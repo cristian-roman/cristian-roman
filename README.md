@@ -1,47 +1,67 @@
-# Cristian-Ioan Roman | Software Engineer & SRE Specialist
+# Hi there 👋 I'm Cristian-Ioan Roman
 
-[cite_start]Software Engineer focused on building resilient, high-performance systems and automated infrastructure[cite: 3, 7]. [cite_start]Currently serving as a Technical Lead, I specialize in reducing system latency, improving observability, and managing cloud-native environments[cite: 26, 29, 35].
-
----
-
-### 🛠 Tech Stack (SRE & Infrastructure Focused)
-* [cite_start]**Cloud & Orchestration:** Kubernetes, Docker, Podman, Azure, GCP[cite: 14, 28].
-* [cite_start]**Observability & Data:** Prometheus, ELK Stack, OpenSearch, Redis, RabbitMQ[cite: 14, 35].
-* [cite_start]**CI/CD & Automation:** Jenkins, GitHub Actions, Gradle, Make[cite: 14, 28, 93, 102].
-* [cite_start]**Languages:** Java (Spring Boot), C++ (Low-latency/Concurrency), Python, C# (.NET Core), Go[cite: 13].
-* [cite_start]**Core Competencies:** Distributed Systems, API Design, System Design, and Scalable Microservices[cite: 15, 21].
+<h3 align="center">Software Engineer | Java, C++, Python & .NET | Distributed Systems, AI & Cloud Enthusiast</h3>
 
 ---
 
-### 📈 Reliability & Performance Impact
-* [cite_start]**Latency Optimization:** Reduced ERP endpoint latency by 80% through algorithmic refactors and caching strategies[cite: 29].
-* [cite_start]**Observability:** Built distributed dashboards using Prometheus and OpenSearch, reducing Mean Time to Recovery (MTTR) by ~15%[cite: 35].
-* [cite_start]**Logging Pipelines:** Developed Docker-based log pipelines processing ~1,000 logs/hour across 11 server lanes for real-time analytics[cite: 36].
-* [cite_start]**System Resilience:** Refactored WebClient implementations to reduce server error exposure by ~93%[cite: 23].
-* [cite_start]**Infrastructure Lead:** Owned end-to-end delivery and managed CI/CD pipelines for an internal ERP platform serving 800+ daily users[cite: 26, 27, 28].
-* [cite_start]**Architecture:** Designed an event-driven change-data-capture (CDC) system to monitor critical financial workflows[cite: 30].
+### 👨‍💻 About Me
+I am a **Software Engineer** dedicated to building **modular backend systems** with a focus on **efficiency, scalability, and maintainability**. My expertise spans **Java, C++, Python, and C#**, utilizing **multithreading, network programming, and cloud-native tools** to deliver high-throughput services.
+
+I enjoy optimizing systems for **performance and reliability**, automating infrastructure with **Docker, orchestration, and CI/CD pipelines**, and architecting robust solutions for complex problems. Curious by nature, I stay up-to-date with **system design patterns and emerging AI technologies** to continually improve the software I build.
 
 ---
 
-### 📜 Certifications
-* [cite_start]**AI & LLMs:** LangChain for LLM Application Development, Functions/Tools/Agents with LangChain, and ChatGPT Prompt Engineering[cite: 51].
-* [cite_start]**DeepLearning.AI:** Building Systems with the ChatGPT API, Open-Source Models with Hugging Face[cite: 51].
-* [cite_start]**Cloud:** Google Cloud Associate Cloud Engineer (in progress)[cite: 51].
-* [cite_start]**Security:** Data Security Best Practices (Publicis Sapient) and Secure Coding (Udemy)[cite: 54, 55].
-* [cite_start]**Big Data:** Apache Spark (Fii Practic) – focused on big data handling and Parquet files[cite: 51].
+### 🚀 Featured Research & AI
+| Project | Tech & Highlights |
+|---------|------------------|
+| **[AI Endometriosis Detection](https://github.com/cristian-roman/Licenta2024)** | **Python, PyTorch, Flask, React, Docker** — Engineered a hybrid **U-Net + GCN** system for medical image segmentation. Achieved **92% accuracy** and real-time inference (~20 FPS). Published research (INISTA). |
+| **[ExplainedChessIA](https://github.com/cristian-roman/ExplainedChessIA)** | **Python, Flask, LSTM, Stockfish** — Chatbot explaining chess moves using deep learning and engine analysis. |
+| **[Flappy Bird RL Agent](https://github.com/cristian-roman/flappy-bird)** | **Python, PyTorch** — Q-Learning & Deep Q-Learning agent automating gameplay. |
+| **[NN & AI Coursework](https://github.com/cristian-roman/RN_2023)** | **Python, C#** — Implementation of Perceptrons, Adaline, and Backpropagation from scratch. |
 
 ---
 
-### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-roman0502)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianroman0502@gmail.com)
+### 🖥️ Systems & Low-Level Engineering
+| Project | Tech & Highlights |
+|---------|------------------|
+| **[AwesomeWM Config](https://github.com/cristian-roman/awesomeWM)** | **Lua, Bash, Arch Linux** — Modular, performance-tuned window manager setup with async error handling, custom monitor rules, and automated system bootstrap scripts. |
+| **[Recursive Resource Downloader](https://github.com/cristian-roman/rc_p1)** | **C, TCP/IP** — Custom client-server web scraper built with a reliable protocol, handling concurrency via `fork()` and `select()`. |
+| **[Deriv Engine](https://github.com/hututudor/deriv)** | **C++17, SDL2** — Symbolic differentiation engine using Abstract Syntax Trees (AST) and custom visualization. |
 
 ---
 
-### 📌 Recommended Projects to Pin
-Based on your SRE focus, I recommend pinning these repositories to highlight your skills in low-level networking, containerization, and full-stack performance:
+### ☁️ Cloud & Full-Stack Development
+| Project | Tech & Highlights |
+|---------|------------------|
+| **[CloudComputing_2024](https://github.com/cristian-roman/CloudComputing_2024)** | **.NET Core, Blazor, ASP.NET Core** — Modular backend + SPA frontend with Swagger documentation. |
+| **[SaaS Recipe App](https://github.com/stefanvulpe-dev/cloud-computing-team-workspace)** | **React, TypeScript, Node.js, Prisma, GCP & Azure** — Multi-cloud deployment with AI-powered narration and Redis caching. |
+| **[IoT Smart Greenhouse](https://github.com/hututudor/iot_smart_greenhouse)** | **Python, React, Cisco Packet Tracer** — Real-time sensor data simulation and dashboard visualization. |
+| **[Event Management System](https://github.com/Starpuff/FII-SGBD)** | **Java, Spring Boot, PostgreSQL** — Booking platform with complex DB triggers and RESTful API. |
 
-1.  [cite_start]**Licenta2024:** Highlights high-performance Python, multithreaded medical image parsing, and Dockerized MongoDB/GridFS storage[cite: 58, 73].
-2.  [cite_start]**rc_p1 (Network Protocol):** Demonstrates low-level C programming, BSD sockets, and concurrent TCP/UDP communication using `fork()` and `select()`[cite: 101, 102, 103].
-3.  [cite_start]**CloudComputing_2024:** Showcases a scalable .NET Core multi-service architecture with automated Swagger documentation and production-ready CI/CD pipelines[cite: 129, 132].
-4.  [cite_start]**awesomeWM:** Displays your proficiency in Linux systems (Arch Linux), modular Lua scripting, and automated system configuration[cite: 73, 74, 76].
+---
+
+### 🎮 Game Development & Graphics
+* **[Witching Tales](https://github.com/Starpuff/IMRWitchingTales)**: 3D narrative game built in **Unity (C#)** with custom **Blender** assets.
+* **[Warrior Platformer](https://github.com/hututudor/gd2024)**: Side-scrolling 2D platformer emphasizing physics and state machines.
+* **[AR Bird App](https://github.com/cristian-roman/IMR_2023_tema_1)**: Mobile AR experience utilizing **Unity AR Foundation** for real-space interactions.
+* **[Mancala Game](https://github.com/cristian-roman/MancalaGamePy-main)**: Python-based board game featuring AI-generated visual assets.
+
+---
+
+### 🔧 Tools & Technologies
+* **Languages**: Java (Spring Boot), C++ (Low-latency/Concurrency), Python (PyTorch, LangChain), C# (.NET Core, Blazor), Lua, C, SQL.
+* **Infrastructure**: Docker, Kubernetes, Jenkins, Linux (Arch/Ubuntu), Git.
+* **Cloud & Data**: Google Cloud Platform (GCP), Azure, PostgreSQL, MongoDB, Redis, Prometheus.
+* **Specializations**: System Design, Microservices, AI/ML, Medical Imaging, Network Programming.
+
+---
+
+### 🎓 Certifications & Continuous Learning
+* **DeepLearning.AI**: LangChain for LLM Development, ChatGPT Prompt Engineering.
+
+---
+
+<p align="center">
+  <a href="https://github.com/cristian-roman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/cristian-roman0502"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
