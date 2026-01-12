@@ -1,9 +1,5 @@
 # Hi there 👋 I'm Cristian-Ioan Roman
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueXp6c3R4eXp6c3R4eXp6c3R4eXp6c3R4eXp6c3R4eXp6JnVpZD0mZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" alt="Hi gif" />
-</p>
-
 <h3 align="center">Software Engineer | Java, C++, Python & .NET | Distributed Systems, AI & Cloud Enthusiast</h3>
 
 ---
@@ -61,10 +57,7 @@ I enjoy optimizing systems for **performance and reliability**, automating infra
 ---
 
 ### 🎓 Certifications & Continuous Learning
-* **Google Cloud Associate Cloud Engineer** (In Progress)
 * **DeepLearning.AI**: LangChain for LLM Development, ChatGPT Prompt Engineering.
-* **Apache Spark**: Big Data handling and Parquet optimization.
-* **Security**: Secure Coding and Data Security Best Practices.
 
 ---
 
