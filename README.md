@@ -1,56 +1,47 @@
-# Cristian-Ioan Roman
-### Software Engineer | Java, C++, Python & .NET | Distributed Systems & Platform Engineering
+# Cristian-Ioan Roman | Software Engineer & SRE Specialist
 
-A results-driven Software Engineer with a focus on **scalability, observability, and high-performance backend systems**. I specialize in bridging the gap between application development and system reliability, with a focus on building correct, beautiful, and straightforward solutions to complex architectural challenges.
-
----
-
-### 👨‍💻 About Me
-I am a Software Engineer dedicated to the craft of building **correct and elegant systems**. I believe that the most effective solution to a complex problem is often implemented in a straightforward approach. My goal is to reduce system entropy by replacing convoluted workarounds with clean, maintainable, and highly efficient code.
-
-I am driven by a deep curiosity for how hardware and software interact. While my core expertise lies in **Java and distributed backend services**, I maintain a strong theoretical foundation in **C++20** and systems programming, always striving for rigorous correctness and automated resilience in everything I build.
+[cite_start]Software Engineer focused on building resilient, high-performance systems and automated infrastructure[cite: 3, 7]. [cite_start]Currently serving as a Technical Lead, I specialize in reducing system latency, improving observability, and managing cloud-native environments[cite: 26, 29, 35].
 
 ---
 
-### 🛠️ Technical Expertise
-
-* **Languages:** Java (Spring Boot), C++20 (Foundational focus on memory efficiency & concurrency), Python (PyTorch, LangChain), C# (.NET Core).
-* **Infrastructure & SRE:** Docker, Kubernetes (K8s), Jenkins (CI/CD), Prometheus, Grafana, OpenSearch/ELK, Linux (Arch optimization & automation).
-* **Cloud:** Google Cloud Platform (GCP), Microsoft Azure.
-* **Specializations:** Distributed Systems, Microservices Architecture, AI/ML (Medical Imaging), Network Protocols.
-
----
-
-### 🚀 Key Projects & Research
-
-#### **Systems & Infrastructure (SRE Focus)**
-* **Custom Arch Linux Environment & AwesomeWM:** Developed a modular, Lua-based configuration for Arch Linux. Engineered automated bootstrapping and system-level tweaks to optimize environment stability and developer productivity.
-* **High-Reliability Network Protocol:** Engineered a custom TCP-based protocol in ANSI C. Implemented ACK/NACK reliability mechanisms and handled high concurrency using `fork()` and `select()`.
-* **Distributed Observability Dashboards:** Successfully reduced MTTR by ~15% by building system-wide observability layers using Prometheus and OpenSearch in a distributed environment.
-
-#### **AI & Machine Learning**
-* **Medical Image Segmentation (Thesis: 10/10):** Published research on Advanced Endometriosis Detection. Developed a hybrid **U-Net + Graph Convolutional Network (GCN)** system achieving **92% accuracy**. Dockerized the inference engine for scalable clinical deployment.
-* **LLM Implementation:** Extensive experience with **LangChain** for LLM application development, including RAG (Retrieval-Augmented Generation) and autonomous agent integration.
-
-#### **Full-Stack & Cloud Native**
-* **Multi-Cloud SaaS Platform:** Developed and deployed a recipe platform across **GCP and Azure**, implementing Redis caching for performance and AI-driven text-to-speech integration.
-* **Symbolic Differentiation Engine:** Built a **C++** engine utilizing Abstract Syntax Trees (AST) for mathematical simplification and SDL2 for visualization.
+### 🛠 Tech Stack (SRE & Infrastructure Focused)
+* [cite_start]**Cloud & Orchestration:** Kubernetes, Docker, Podman, Azure, GCP[cite: 14, 28].
+* [cite_start]**Observability & Data:** Prometheus, ELK Stack, OpenSearch, Redis, RabbitMQ[cite: 14, 35].
+* [cite_start]**CI/CD & Automation:** Jenkins, GitHub Actions, Gradle, Make[cite: 14, 28, 93, 102].
+* [cite_start]**Languages:** Java (Spring Boot), C++ (Low-latency/Concurrency), Python, C# (.NET Core), Go[cite: 13].
+* [cite_start]**Core Competencies:** Distributed Systems, API Design, System Design, and Scalable Microservices[cite: 15, 21].
 
 ---
 
-### 📜 Certifications & Education
-* **B.Sc. in Computer Science** – "Alexandru Ioan Cuza" University (Final Grade: 10/10).
-* **LangChain:** LLM Application Development & Functions, Tools and Agents Specialist.
-* **DeepLearning.AI:** Building Systems with the ChatGPT API & Prompt Engineering.
-* **Cloud Security:** Secure Coding and Data Security Best Practices.
+### 📈 Reliability & Performance Impact
+* [cite_start]**Latency Optimization:** Reduced ERP endpoint latency by 80% through algorithmic refactors and caching strategies[cite: 29].
+* [cite_start]**Observability:** Built distributed dashboards using Prometheus and OpenSearch, reducing Mean Time to Recovery (MTTR) by ~15%[cite: 35].
+* [cite_start]**Logging Pipelines:** Developed Docker-based log pipelines processing ~1,000 logs/hour across 11 server lanes for real-time analytics[cite: 36].
+* [cite_start]**System Resilience:** Refactored WebClient implementations to reduce server error exposure by ~93%[cite: 23].
+* [cite_start]**Infrastructure Lead:** Owned end-to-end delivery and managed CI/CD pipelines for an internal ERP platform serving 800+ daily users[cite: 26, 27, 28].
+* [cite_start]**Architecture:** Designed an event-driven change-data-capture (CDC) system to monitor critical financial workflows[cite: 30].
 
 ---
 
-### 🔍 Professional Philosophy
-I prioritize **technical correctness** and long-term maintainability. I strive to solve complex problems with simple, straightforward solutions. My current research interests include exploring **low-latency principles and system-level optimizations** to further improve the performance of distributed cloud architectures.
+### 📜 Certifications
+* [cite_start]**AI & LLMs:** LangChain for LLM Application Development, Functions/Tools/Agents with LangChain, and ChatGPT Prompt Engineering[cite: 51].
+* [cite_start]**DeepLearning.AI:** Building Systems with the ChatGPT API, Open-Source Models with Hugging Face[cite: 51].
+* [cite_start]**Cloud:** Google Cloud Associate Cloud Engineer (in progress)[cite: 51].
+* [cite_start]**Security:** Data Security Best Practices (Publicis Sapient) and Secure Coding (Udemy)[cite: 54, 55].
+* [cite_start]**Big Data:** Apache Spark (Fii Practic) – focused on big data handling and Parquet files[cite: 51].
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-roman0502)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cristianroman0502@gmail.com)
+### 📬 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-roman0502)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianroman0502@gmail.com)
+
+---
+
+### 📌 Recommended Projects to Pin
+Based on your SRE focus, I recommend pinning these repositories to highlight your skills in low-level networking, containerization, and full-stack performance:
+
+1.  [cite_start]**Licenta2024:** Highlights high-performance Python, multithreaded medical image parsing, and Dockerized MongoDB/GridFS storage[cite: 58, 73].
+2.  [cite_start]**rc_p1 (Network Protocol):** Demonstrates low-level C programming, BSD sockets, and concurrent TCP/UDP communication using `fork()` and `select()`[cite: 101, 102, 103].
+3.  [cite_start]**CloudComputing_2024:** Showcases a scalable .NET Core multi-service architecture with automated Swagger documentation and production-ready CI/CD pipelines[cite: 129, 132].
+4.  [cite_start]**awesomeWM:** Displays your proficiency in Linux systems (Arch Linux), modular Lua scripting, and automated system configuration[cite: 73, 74, 76].
