@@ -1,50 +1,84 @@
 # Hi there 👋 I'm Cristian-Ioan Roman
 
-<h3 align="center">Software Engineer | Full-Stack | Java, C++, Python & .NET | Cloud & AI Enthusiast</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueXp6c3R4eXp6c3R4eXp6c3R4eXp6c3R4eXp6c3R4eXp6JnVpZD0mZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" alt="Hi gif" />
+</p>
 
----
-
-### 👨‍💻 About Me
-I am a **Software Engineer** passionate about building **scalable, maintainable, and performant systems**. My experience spans **backend microservices, cloud-native architectures, frontend dashboards, and AI applications**. I enjoy solving complex problems, optimizing systems, and collaborating with creative teams to deliver intuitive, user-friendly solutions.  
-
----
-
-### 🚀 Selected Projects
-
-| Project | Tech & Highlights |
-|---------|------------------|
-| **[AI Endometriosis Detection](https://github.com/cristian-roman/Licenta2024)** | **Python, PyTorch, Flask, React, Docker** — Full-stack system with **U-Net + GCN** for medical image segmentation; includes React dashboard. |
-| **[CloudComputing_2024](https://github.com/cristian-roman/CloudComputing_2024)** | **.NET Core, Blazor, React, Docker** — SPA frontend with modular backend; multi-cloud deployment. |
-| **[SaaS Recipe App](https://github.com/stefanvulpe-dev/cloud-computing-team-workspace)** | **React, TypeScript, Node.js, Redis, GCP & Azure** — Multi-cloud SaaS with real-time AI-powered features. |
-| **[Event Management System](https://github.com/Starpuff/FII-SGBD)** | **Java, Spring Boot, PostgreSQL** — Booking platform with REST API and complex DB triggers. |
-| **[Recursive Resource Downloader](https://github.com/cristian-roman/rc_p1)** | **C, TCP/IP** — Custom client-server scraper with concurrency management. |
-
----
-
-### 🖥️ Skills & Technologies
-- **Languages:** Java (Spring Boot), C++ (Low-latency, concurrency), Python (PyTorch, LangChain), C# (.NET Core, Blazor), SQL  
-- **Frontend / Frameworks:** React, Angular, Blazor, Thymeleaf, TypeScript  
-- **Cloud & DevOps:** Docker, Kubernetes, Jenkins, GCP, Azure, Linux  
-- **Specializations:** System design, microservices, network programming, AI/ML, medical imaging  
-
----
-
-### 🎓 Certifications & Learning
-- **DeepLearning.AI:** LangChain for LLM Development, ChatGPT Prompt Engineering  
-
----
+<h3 align="center">Software Engineer | Java, C++, Python & .NET | Distributed Systems, AI & Cloud Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/cristian-roman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/cristian-roman0502"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/cristian-roman0502">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cristianroman0502@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🔹 Recommended Pins (for GitHub)
-1. **AI Endometriosis Detection** – full-stack React + Flask dashboard.  
-2. **CloudComputing_2024** – full-stack SPA with .NET Core + React + cloud deployment.  
-3. **SaaS Recipe App** – React + TypeScript + Node.js + multi-cloud + Redis.  
-4. **Event Management System** – Java Spring Boot backend + PostgreSQL.  
-5. **Recursive Resource Downloader** – low-level C client-server with concurrency.  
-6. **Optional:** Angular/Thymeleaf small experiment repo (show FE exploration).  
+### 👨‍💻 Professional Summary
+I am a **Software Engineer** specializing in the design and implementation of **high-performance, modular backend systems**. With a foundation in **Computer Science (B.Sc. 10/10 Thesis)**, I bridge the gap between rigorous academic research in **AI/Deep Learning** and industry-standard **Cloud-Native engineering**.
+
+My philosophy centers on **Clean Code**, **Test-Driven Development (TDD)**, and **System Ownership**. I am comfortable across the stack, from low-level **C/C++ network programming** to scaling **Java/Spring Boot microservices** in distributed cloud environments.
+
+---
+
+### 🛠️ Technical Ecosystem
+
+| Category | Proficiency |
+| :--- | :--- |
+| **Languages** | Java (Spring Boot), C++17, Python (PyTorch/LangChain), C# (.NET Core), Lua, C |
+| **Cloud & DevOps** | Docker, Kubernetes, GCP, Azure, Jenkins, CI/CD, Prometheus, ELK Stack |
+| **Backend & Data** | Microservices, REST APIs, PostgreSQL, MongoDB (GridFS), Redis, RabbitMQ |
+| **Specialized** | AI/ML Image Segmentation, Multithreading, Linux Kernel/SysAdmin, LLM Tooling |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 AI & Research
+* **Medical Image Segmentation (Thesis)**: Developed a hybrid **U-Net + GCN** architecture for endometriosis detection. Optimized with **PyTorch** and a multithreaded **MongoDB** extraction pipeline. *Result: 92% accuracy, published in INISTA.*
+* **LLM & Generative AI**: Architecting intelligent systems using **LangChain** and the **ChatGPT API**, focusing on tool-calling, RAG, and automated prompt engineering.
+
+#### 🖥️ Systems & Infrastructure
+* **Custom Linux Environment (AwesomeWM)**: A modular, **Lua-scripted** window manager configuration for Arch Linux. Includes custom handlers for async errors, dynamic multi-monitor setups, and hardware-level optimizations for NVIDIA/Intel drivers.
+* **Custom TCP Protocol**: Engineered a reliable data extraction protocol in **ANSI C** from scratch, implementing flow control and concurrent request handling.
+
+#### ☁️ Distributed Applications
+* **Multi-Cloud SaaS**: A recipe and nutrition platform deployed across **GCP and Azure**, featuring **Redis caching** and AI-driven narration.
+* **Cloud Observability**: Experience building real-time dashboards using **Prometheus and OpenSearch** to monitor high-traffic log pipelines.
+
+---
+
+### 🎓 Continuous Learning & Certifications
+* **Cloud**: Google Cloud Associate Cloud Engineer (*In Progress*), Cloud Computing Fundamentals.
+* **Artificial Intelligence**: DeepLearning.AI LangChain Specializations, Generative AI Ethics, Hugging Face Open-Source Models.
+* **Data Engineering**: Apache Spark Big Data Processing (Fii Practic).
+* **Security**: Secure Coding & Data Security Best Practices.
+
+---
+
+### 🔧 My Development Environment
+* **OS**: Arch Linux (Themed with my custom AwesomeWM config)
+* **Editor**: Neovim / IntelliJ IDEA / VS Code
+* **Terminal**: Alacritty / Zsh
+* **Philosophy**: "If you have to do it twice, automate it."
+
+---
+
+<details>
+<summary><b>📊 GitHub Statistics</b></summary>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cristian-roman&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-roman&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+</details>
+
+---
+
+<p align="center">
+  <i>"Curiosity is the engine of achievement."</i><br/>
+  <b>Let's build something scalable.</b>
+</p>
