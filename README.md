@@ -20,7 +20,7 @@ I have a strong **systems and networking foundation** (concurrency, TCP/IP, Linu
 
 ### Backend & Distributed Systems
 
-- **[Event Management System](https://github.com/cristian-roman/FII-SGBD)**  
+- **[Event Management System](https://github.com/Starpuff/FII-SGBD/tree/main)**  
   *Java 17, Spring Boot, Oracle SQL*  
   Full-stack backend system for managing events and locations, featuring REST APIs, authentication, and database-level integrity via triggers and PL/SQL.  
   Focus on data consistency, layered architecture, and concurrency.
