@@ -20,20 +20,20 @@ I have a strong **systems and networking foundation** (concurrency, TCP/IP, Linu
 
 ### Backend & Distributed Systems
 
-- **Event Management System**  
+- **[Event Management System](https://github.com/cristian-roman/FII-SGBD)**  
   *Java 17, Spring Boot, Oracle SQL*  
   Full-stack backend system for managing events and locations, featuring REST APIs, authentication, and database-level integrity via triggers and PL/SQL.  
   Focus on data consistency, layered architecture, and concurrency.
 
-- **Cloud-Based .NET Services**  
+- **[Cloud-Based .NET Services](https://github.com/cristian-roman/CloudComputing_2024)**  
   *C#, .NET, ASP.NET Core, Blazor*  
   Collection of modular backend services and a Blazor SPA, exploring service-oriented design, REST APIs, and cloud-ready application structure.
 
-- **TCP/IP Network System**  
+- **[TCP/IP Network System](https://github.com/cristian-roman/rc_p1)**  
   *C, POSIX APIs*  
   Concurrent client–server application implementing custom TCP communication, process-based concurrency, and robust error handling using low-level sockets.
 
-- **AwesomeWM Configuration**  
+- **[AwesomeWM Configuration](https://github.com/cristian-roman/awesomeWM)**  
   *Lua, Linux*  
   Modular and performance-oriented Linux window manager configuration, emphasizing system reliability, scripting, and developer productivity.
 
@@ -41,7 +41,7 @@ I have a strong **systems and networking foundation** (concurrency, TCP/IP, Linu
 
 ### Research & Applied Engineering
 
-- **Advanced Endometriosis Detection**  
+- **[Advanced Endometriosis Detection](https://github.com/cristian-roman/Licenta2024)**  
   *Python, PyTorch, Docker*  
   Bachelor’s thesis (10/10), published at **INISTA**, implementing a U-Net–based medical image segmentation pipeline enhanced with GCNs.  
   Includes multithreaded preprocessing and a Dockerized API for visualization.
