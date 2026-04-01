@@ -10,7 +10,7 @@ EU Citizen
 
 Backend Software Engineer with **3+ years of professional experience** building and operating **cloud-native, distributed systems** in **regulated and business-critical domains** (ERP, health insurance).
 
-I specialize in **Java (Spring Boot)** and **.NET**, with hands-on ownership of backend services used daily by **800+ users**. My work emphasizes **correctness, performance, observability, and long-term maintainability**, covering the full lifecycle from API design and authorization to deployment and production support.
+I specialize in **Java (Spring Boot)**, with hands-on ownership of backend services used daily by **800+ users**. My work emphasizes **correctness, performance, observability, and long-term maintainability**, covering the full lifecycle from API design and authorization to deployment and production support.
 
 I have a strong **systems and networking foundation** (concurrency, TCP/IP, Linux) and experience delivering **applied research projects** with production-oriented constraints.
 
