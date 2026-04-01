@@ -1,7 +1,7 @@
 # Cristian-Ioan Roman
 
 **Software Engineer (Backend / Distributed Systems)**  
-Java (Spring Boot) · .NET · Cloud-Native Systems  
+Java (Spring Boot)  
 EU Citizen
 
 ---
