@@ -50,11 +50,9 @@ I have a strong **systems and networking foundation** (concurrency, TCP/IP, Linu
 
 ## 🛠 Technical Skills
 
-- **Core Stack:** Java (Spring Boot), C# (.NET), REST APIs, Distributed Systems, Concurrency  
+- **Core Stack:** Java (Spring Boot), REST APIs, Distributed Systems, Concurrency  
 - **Cloud & Infrastructure:** GCP, Kubernetes, Docker, Linux, Jenkins  
 - **Data & Performance:** SQL/NoSQL, PostgreSQL, Redis, Caching, Observability  
-- **Additional:** Python (scripting), C++
-
 ---
 
 ## 🌍 Languages
