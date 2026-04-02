@@ -1,18 +1,30 @@
 # Cristian-Ioan Roman
 
-**Software Engineer (Backend / Distributed Systems)**  
-Java (Spring Boot)  
+**Backend Software Engineer (Java / Distributed Systems)**  
+Spring Boot · Microservices · Cloud (GCP, Kubernetes)  
 EU Citizen
 
 ---
 
 ## 👨‍💻 Profile
 
-Backend Software Engineer with **3+ years of professional experience** building and operating **cloud-native, distributed systems** in **regulated and business-critical domains** (ERP, health insurance).
+Backend Software Engineer with 3+ years of experience building and operating distributed systems in business-critical environments (ERP, health insurance).
 
-I specialize in **Java (Spring Boot)**, with hands-on ownership of backend services used daily by **800+ users**. My work emphasizes **correctness, performance, observability, and long-term maintainability**, covering the full lifecycle from API design and authorization to deployment and production support.
+I primarily work with Java and Spring Boot, focusing on designing reliable backend services, well-defined APIs, and systems that scale over time. My experience covers the full lifecycle of backend development — from API design and data modeling to deployment and production support.
 
-I have a strong **systems and networking foundation** (concurrency, TCP/IP, Linux) and experience delivering **applied research projects** with production-oriented constraints.
+I’ve worked on microservices, authorization systems, and observability pipelines, with hands-on experience in cloud-native environments (Docker, Kubernetes, GCP).
+
+I also have a strong foundation in systems programming (networking, concurrency, Linux) and enjoy working on technically challenging problems across different levels of abstraction.
+
+---
+
+## 🔍 What I Work On
+
+- Backend systems and microservices (Java, Spring Boot)
+- Distributed system design and API architecture
+- Authorization and identity models
+- Observability and system reliability
+- Cloud-native applications (Docker, Kubernetes, GCP)
 
 ---
 
@@ -21,45 +33,57 @@ I have a strong **systems and networking foundation** (concurrency, TCP/IP, Linu
 ### Backend & Distributed Systems
 
 - **[Event Management System](https://github.com/Starpuff/FII-SGBD/tree/main)**  
-  *Java 17, Spring Boot, Oracle SQL*  
-  Full-stack backend system for managing events and locations, featuring REST APIs, authentication, and database-level integrity via triggers and PL/SQL.  
-  Focus on data consistency, layered architecture, and concurrency.
+  *Java, Spring Boot, Oracle SQL*  
+  Backend system for managing events and locations, exposing REST APIs and ensuring data integrity through database constraints and triggers.  
+  Focus on layered architecture, consistency, and concurrency.
 
 - **[Cloud-Based .NET Services](https://github.com/cristian-roman/CloudComputing_2024)**  
-  *C#, .NET, ASP.NET Core, Blazor*  
-  Collection of modular backend services and a Blazor SPA, exploring service-oriented design, REST APIs, and cloud-ready application structure.
+  *C#, ASP.NET Core, Blazor*  
+  Collection of modular backend services and a web client, exploring service-oriented design and cloud-ready architectures.
 
 - **[TCP/IP Network System](https://github.com/cristian-roman/rc_p1)**  
   *C, POSIX APIs*  
-  Concurrent client–server application implementing custom TCP communication, process-based concurrency, and robust error handling using low-level sockets.
+  Concurrent client–server system implementing a custom TCP protocol, with process-based concurrency and low-level socket handling.
 
 - **[AwesomeWM Configuration](https://github.com/cristian-roman/awesomeWM)**  
   *Lua, Linux*  
-  Modular and performance-oriented Linux window manager configuration, emphasizing system reliability, scripting, and developer productivity.
+  Modular Linux window manager configuration focused on performance, scripting, and developer productivity.
 
 ---
 
 ### Research & Applied Engineering
 
-- **[Advanced Endometriosis Detection](https://github.com/cristian-roman/Licenta2024)**  
+- **[Endometriosis Detection (Thesis)](https://github.com/cristian-roman/Licenta2024)**  
   *Python, PyTorch, Docker*  
-  Bachelor’s thesis (10/10), published at **INISTA**, implementing a U-Net–based medical image segmentation pipeline enhanced with GCNs.  
-  Includes multithreaded preprocessing and a Dockerized API for visualization.
+  Bachelor’s thesis (10/10), presented at INISTA 2024.  
+  Implements a medical image segmentation pipeline (U-Net + GCN) with preprocessing and visualization components.
 
 ---
 
 ## 🛠 Technical Skills
 
-- **Core Stack:** Java (Spring Boot), REST APIs, Distributed Systems, Concurrency  
-- **Cloud & Infrastructure:** GCP, Kubernetes, Docker, Linux, Jenkins  
-- **Data & Performance:** SQL/NoSQL, PostgreSQL, Redis, Caching, Observability  
+**Core:**  
+Java · Spring Boot · REST APIs · Microservices · Distributed Systems  
+
+**Cloud & Infrastructure:**  
+GCP · Kubernetes · Docker · CI/CD · Linux  
+
+**Data & Messaging:**  
+PostgreSQL · MongoDB 
+
+**Observability:**  
+Prometheus · OpenSearch · Logging & Monitoring  
+
+**Other:**  
+Python · C/C++ · .NET / ASP.NET Core · JavaScript / React  
+
 ---
 
 ## 🌍 Languages
 
-- Romanian – Native  
-- English – C1 (CAE)  
-- German – A1 (actively learning, relocation-oriented)
+- Romanian — Native  
+- English — C1 (CAE)  
+- German — A1 (actively learning)
 
 ---
 
@@ -67,8 +91,8 @@ I have a strong **systems and networking foundation** (concurrency, TCP/IP, Linu
 
 - 📧 Email: cristianroman0502@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/cristian-roman0502  
-- 🧑‍💻 GitHub: https://github.com/cristian-roman
+- 🧑‍💻 GitHub: https://github.com/cristian-roman  
 
 ---
 
-> I value predictable systems, clean architecture, and pragmatic engineering decisions that scale over time.
+> Most of my recent professional work is in private repositories; this profile highlights representative projects and technical interests.
