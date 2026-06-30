@@ -21,7 +21,7 @@ Currently, I manage backend logic and IAM for a large-scale health insurance MVP
 ### 🚀 What I'm Currently Working On
 - 🏥 **Enterprise Health Insurance MVP:** Resolving complex IAM bottlenecks, optimizing $O(N^2)$ lookup algorithms to $O(N)$, and managing 6 microservices on GCP.
 - 🤖 **AI-Assisted Engineering:** Evaluating LLM reasoning accuracy, designing adversarial prompts.
-- 🇬🇧 **UK Market Delivery:** Recently delivered a production-ready corporate infrastructure and web platform for a UK Fire & Security startup (from Figma to Cloudflare deployment) - [https://pfireltd.com/] (pfireltd.com)
+- 🇬🇧 **UK Market Delivery:** Recently delivered a production-ready corporate infrastructure and web platform for a UK Fire & Security startup (from Figma to Cloudflare deployment) - [pfireltd.com](https://pfireltd.com/)
 
 ---
 
