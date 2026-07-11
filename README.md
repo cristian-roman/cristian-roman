@@ -22,5 +22,5 @@ Most of my current production work is in private company repositories.
 
 **Contact**
 - LinkedIn: linkedin.com/in/cristian-roman0502
-- Resume: https://mega.nz/file/jVAVXZjY#4nD0vnMZekdmS5tr8GQT90T1BeyRW8bPuZZnXWhpAg4
+- Resume: https://mega.nz/file/6FplGDIA#gVvWH27iUCHS3c-0tcm1qcZrCIAG1tIjG3IpjBBz04E
 - Email: cristianroman0502@gmail.com
